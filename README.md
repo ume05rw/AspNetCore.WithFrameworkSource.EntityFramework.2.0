@@ -1,4 +1,4 @@
-AspNetCore.WithFrameworkSource.Ef.2.0
+AspNetCore.WithFrameworkSource.EntityFramework.2.0
 ====
 
 Sample project with Entity Framework Core source codes.
