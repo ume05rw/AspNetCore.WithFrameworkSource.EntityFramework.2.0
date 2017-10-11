@@ -28,14 +28,14 @@ To run this, please restore /DbDump/testdb.bak to your SqlServer first.
 Referenced NuGet packages:
    
 - Basic Reference:
-  + [Microsoft.AspNetCore](https://github.com/aspnet/MetaPackages/tree/rel/2.0.0/src/Microsoft.AspNetCore)
-  + [Microsoft.AspNetCore.Mvc](https://github.com/aspnet/Mvc/tree/rel/2.0.0)
-  + [Microsoft.AspNetCore.StaticFiles](https://github.com/aspnet/StaticFiles/tree/rel/2.0.0)  
-  + Microsoft.VisualStudio.Web.BrowserLink <- source not found. MetaPackage?
+    + [Microsoft.AspNetCore](https://github.com/aspnet/MetaPackages/tree/rel/2.0.0/src/Microsoft.AspNetCore)
+    + [Microsoft.AspNetCore.Mvc](https://github.com/aspnet/Mvc/tree/rel/2.0.0)
+    + [Microsoft.AspNetCore.StaticFiles](https://github.com/aspnet/StaticFiles/tree/rel/2.0.0)  
+    + Microsoft.VisualStudio.Web.BrowserLink <- source not found. MetaPackage?
 - Entity Framework sources
-  + [Microsoft.EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore/tree/rel/2.0.0/src/EFCore)
-  + [Microsoft.EntityFrameworkCore.Design](https://github.com/aspnet/EntityFrameworkCore/tree/rel/2.0.0/src/EFCore.Design)
-  + [Microsoft.EntityFrameworkCore.SqlServer](https://github.com/aspnet/EntityFrameworkCore/tree/rel/2.0.0/src/EFCore.SqlServer)
+    + [Microsoft.EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore/tree/rel/2.0.0/src/EFCore)
+        * [Microsoft.EntityFrameworkCore.Design](https://github.com/aspnet/EntityFrameworkCore/tree/rel/2.0.0/src/EFCore.Design)
+        * [Microsoft.EntityFrameworkCore.SqlServer](https://github.com/aspnet/EntityFrameworkCore/tree/rel/2.0.0/src/EFCore.SqlServer)
     
   
 ## Link
