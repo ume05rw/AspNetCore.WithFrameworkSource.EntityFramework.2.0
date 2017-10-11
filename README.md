@@ -44,9 +44,11 @@ Asp.Net Core Project Home:
   
 Package Set:  
 [https://github.com/aspnet/MetaPackages](https://github.com/aspnet/MetaPackages)  
-
-Namespace "Microsoft.AspNetCore" Packages:   
+  
+Namespace "Microsoft.EntityFrameworkCore" Packages:  
 [https://github.com/aspnet/EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore)  
+  
+Namespace "Microsoft.AspNetCore" Packages:   
 [https://github.com/aspnet/Mvc](https://github.com/aspnet/Mvc)  
 [https://github.com/aspnet/StaticFiles](https://github.com/aspnet/StaticFiles)  
    
